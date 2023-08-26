@@ -21,7 +21,7 @@
 | Content Cell  | Content Cell  | Content Cell   | Content Cell   |
 
 
-<hr>
+---
 
 Follow our social media handles for more jobs & internships updates.
 
