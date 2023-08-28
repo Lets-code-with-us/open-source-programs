@@ -3,6 +3,9 @@
 | Name          | Timeline      |  Stipend       |  Eligibility  |
 | ------------- | ------------- |  ------------- | ------------- |
 | [MLH Open Source Fellowship](https://fellowship.mlh.io/)  | [timeline](https://fellowship.mlh.io/programs/open-source)  | yes   | Be at least 18 years of age  |
+| [Code4 GovTech](https://www.codeforgovtech.in/)  | [Timeline](https://www.codeforgovtech.in/apply)  | yes   | NA |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org/)  | [Timeline](https://www.summerofbitcoin.org/how-it-works)  | yes   | NA |
+
 
 
 
@@ -22,6 +25,11 @@
 
 
 ---
+## How to Contribute 
+1. Star this repository
+2. Fork the repository and then edit read.me file
+3. Make sure you add the information under the right heading and to the correct column
+4. Preview it and make a pull request 
 
 Follow our social media handles for more jobs & internships updates.
 
