@@ -7,6 +7,7 @@
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/)  | [Timeline](https://www.summerofbitcoin.org/how-it-works)  | yes   | NA |
 | [Google Summer of Code - GSOC](https://summerofcode.withgoogle.com/)  | [Timeline](https://summerofcode.withgoogle.com/programs/2023)  | yes   | Be at least 18 years of age |
 | [Outreachy](https://www.outreachy.org/)  | [Timeline](https://www.outreachy.org/)  | yes   | NA |
+| [GitHub Octernships](https://education.github.com/students/octernships) | [Timeline](https://education.github.com/globalcampus/octernships) | yes | should have contributed on Github |
 
 
 
