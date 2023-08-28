@@ -27,7 +27,7 @@
 ---
 ## How to Contribute 
 1. Star this repository
-2. Fork the repository and then edit read.me file
+2. Fork the repository and then edit README.md file
 3. Make sure you add the information under the right heading and to the correct column
 4. Preview it and make a pull request 
 
