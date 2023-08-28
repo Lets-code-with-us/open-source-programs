@@ -26,7 +26,7 @@
 
 | Name          | Timeline      |  Stipend       |  Eligibility  |
 | ------------- | ------------- |  ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell   | Content Cell   |
+| [Techacks4.0](https://techacks.org/#speakers)   | [Timeline](https://techacks.org/#speakers) | Prizes for Winners |NA  |
 
 
 ---
