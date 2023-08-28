@@ -14,6 +14,8 @@
 | Name          | Timeline      |  Stipend       |  Eligibility  |
 | ------------- | ------------- |  ------------- | ------------- |
 | [Hacktoberfest](https://hacktoberfest.digitalocean.com/)     |  [Timeline](https://hacktoberfest.com/participation/)  | Swag Rewards  | Open for all   |
+| [Bountiful Open Source Summer- BOSS](https://lab.codingblocks.com/boss)    |  [Timeline](https://lab.codingblocks.com/boss#rules-and-eligibility) | Prizes for Winners  | Open for all   |
+
 
 
 
