@@ -13,7 +13,7 @@
 
 | Name          | Timeline      |  Stipend       |  Eligibility  |
 | ------------- | ------------- |  ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell   | Content Cell   |
+| [Hacktoberfest](https://hacktoberfest.digitalocean.com/)     |  [Timeline](https://hacktoberfest.com/participation/)  | Swag Rewards  | Open for all   |
 
 
 
