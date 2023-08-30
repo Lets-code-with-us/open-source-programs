@@ -7,8 +7,12 @@
 | [Summer of Bitcoin](https://www.summerofbitcoin.org/)  | [Timeline](https://www.summerofbitcoin.org/how-it-works)  | yes   | NA |
 | [Google Summer of Code - GSOC](https://summerofcode.withgoogle.com/)  | [Timeline](https://summerofcode.withgoogle.com/programs/2023)  | yes   | Be at least 18 years of age |
 | [Outreachy](https://www.outreachy.org/)  | [Timeline](https://www.outreachy.org/)  | yes   | NA |
-| [GitHub Octernships](https://education.github.com/students/octernships) | [Timeline](https://education.github.com/globalcampus/octernships) | yes | should have contributed on Github |
-| [Season of KDE](https://season.kde.org/) | [Timeline](https://season.kde.org/) | No | open for all |
+| [GitHub Octernships](https://education.github.com/students/octernships) | [Timeline](https://education.github.com/globalcampus/octernships) | yes | Should have contributed on Github |
+| [Season of KDE](https://season.kde.org/) | [Timeline](https://season.kde.org/) | No | Open for all |
+| [XROS - Open Source fellowship](https://xrosfellowship.ficci.in/) | [Timeline](https://xrosfellowship.ficci.in/#timeline) | Yes | Should be in pre-final or final year of grauation  |
+| [FOSSASIA Internship Program](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform) | Whole Year | No | Open for all |
+| [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#space-menu-link-content) | [Timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2023ProgramTimeline*) | yes |NA |
+
 
 
 
