@@ -12,7 +12,7 @@
 | [XROS - Open Source fellowship](https://xrosfellowship.ficci.in/) | [Timeline](https://xrosfellowship.ficci.in/#timeline) | Yes | Should be in pre-final or final year of grauation  |
 | [FOSSASIA Internship Program](https://docs.google.com/forms/d/e/1FAIpQLScp8h5SIPVK5G2SAm5vtrv7KLKeOeYTxlZBkDRE6I7Toybt0A/viewform) | Whole Year | No |Be at least 18 years of age  |
 | [LFN Mentorship Program](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#space-menu-link-content) | [Timeline](https://wiki.lfnetworking.org/display/LN/LFN+Mentorship+Program#LFNMentorshipProgram-2023ProgramTimeline*) | yes |NA |
-
+| [Google Season of Docs](https://developers.google.com/season-of-docs) | [Timeline](https://developers.google.com/season-of-docs/docs/timeline) | Yes | Prior technical writing experience  |
 
 
 
