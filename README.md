@@ -42,6 +42,7 @@
 | [Techacks4.0](https://techacks.org/#speakers)   | [Timeline](https://techacks.org/#speakers) | Prizes for Winners |NA  |
 | [Octahacks 5.0](https://octahacks5.tech/)   | [Timeline](https://octahacks5.tech/) | Prizes for Winners | Enrolled as a student  |
 | [HackNITR 5.0](https://hacknitr.com/)   | [Timeline](https://hacknitr.com/) | Prizes for Winners | Enrolled as a student  |
+| [JGEC Winter of Code](https://jwoc.tech/)   | [Timeline](https://jwoc.tech/#timeline) | Swag rewards | Enrolled as a student  |
 
 Follow our social media handles for more jobs & internship updates.
 
